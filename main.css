@@ -1,7 +1,7 @@
 @charset "utf-8";
 /* CSS Document */
 h1,button,body,h2,h3,h4,h5,h6,.w3-bar {font-family: "Oswald", sans-serif}
-p,copyright {font-family: "Quattrocento", sans-serif}
+p,copyright {font-family: "Quattrocento", sans-serif; padding:4px}
 .fa-anchor,.fa-coffee {font-size:200px}
 .logo-main{max-width: 25%; min-width: 200px; height:auto;}
 body,w3-bottom-bar,.w3-bottombar {background-color: #8AC4D0}
