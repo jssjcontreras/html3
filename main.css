@@ -8,5 +8,5 @@ body,w3-bottom-bar,.w3-bottombar {background-color: #8AC4D0}
 .light1{background-color: #F4D160}
 .light2{background-color: #FBEEAC}
 footer{background-color: #28527A}
-.headback{background: url("images/HeaderBackground.jpg");background-position:bottom right;background-repeat: no-repeat;background-size:auto 480px}
 .center{text-align: center;width: 100%;}
+.gradient{background-image: linear-gradient(to bottom right, #a4c2db, #00b3be)!important;}
